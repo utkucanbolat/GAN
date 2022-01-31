@@ -1,1 +1,1 @@
-My implementation of Generative Adversarial Networks (GAN).
+My implementation of a Generative Adversarial Network (GAN).
